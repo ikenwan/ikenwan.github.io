@@ -30,8 +30,8 @@ Next, I decided to use a prebuilt Resnet18 model and then train it on the kaggle
 Finally, I decided to use a Resney34 model and train that on the given data. However, without realizing I just accidentally retrained the resnet18 model again. Suprisingly, this lead to the biggest  decrease as shown below. This was probably due to the different constraints I used.
 
 ### Analysis:
-[darknet loss graph] (https://drive.google.com/file/d/1nsXlhKfeRlFd5g9irKICCHeZvcHZ3Uxy/view?usp=sharing)
-[resnet18 loss graph (https://drive.google.com/file/d/1JGh36zT_Ga2GcmaajoAjS7K8qkc2ROOr/view?usp=sharing)
+[darknet loss graph](https://drive.google.com/file/d/1nsXlhKfeRlFd5g9irKICCHeZvcHZ3Uxy/view?usp=sharing)
+[resnet18 loss graph](https://drive.google.com/file/d/1JGh36zT_Ga2GcmaajoAjS7K8qkc2ROOr/view?usp=sharing)
 
 
 
