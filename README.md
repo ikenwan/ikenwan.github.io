@@ -31,6 +31,7 @@ Finally, I decided to use a Resney34 model and train that on the given data. How
 
 ### Analysis:
 [darknet loss graph](https://drive.google.com/file/d/1nsXlhKfeRlFd5g9irKICCHeZvcHZ3Uxy/view?usp=sharing)
+
 [resnet18 loss graph](https://drive.google.com/file/d/1JGh36zT_Ga2GcmaajoAjS7K8qkc2ROOr/view?usp=sharing)
 
 
