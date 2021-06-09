@@ -38,7 +38,7 @@ As you can see, the darknet model performed a lot worse than the pretrained resn
 
 As for the resnet models, there is clear difference between there starting loss as well as where the converge. For the model without scheduling, it started at a much higher loss rate and stopped right around where the other model started. The model with the scheduling rate started lower and kept descending far beyond the model without scheduling.
 
-## [Project Presentation Video](https://www.youtube.com/watch?v=s99BOFDfnV0)
+## [Project Presentation Video](https://drive.google.com/file/d/1HUR-6pJkYA0zVsTdZEenGqkMjNk2Nzi3/view?usp=sharing)
 
 ## Discussion:
 ### What problems did you encounter?
